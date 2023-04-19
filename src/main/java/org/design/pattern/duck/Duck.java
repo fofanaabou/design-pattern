@@ -1,4 +1,7 @@
-package org.design.pattern;
+package org.design.pattern.duck;
+
+import org.design.pattern.FlyBehavior;
+import org.design.pattern.QuackBehavior;
 
 /**
  * @author Abou FOFANA at 19/04/2023

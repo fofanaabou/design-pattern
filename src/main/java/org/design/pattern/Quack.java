@@ -6,6 +6,6 @@ package org.design.pattern;
 public class Quack implements QuackBehavior {
     @Override
     public void quack() {
-        System.out.println("I'm quacking");
+        System.out.println("Quack");
     }
 }
