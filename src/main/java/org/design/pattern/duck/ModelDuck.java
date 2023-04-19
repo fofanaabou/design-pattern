@@ -1,8 +1,7 @@
 package org.design.pattern.duck;
 
-import org.design.pattern.FlyNoWay;
-import org.design.pattern.Quack;
-import org.design.pattern.duck.Duck;
+import org.design.pattern.behavior.FlyNoWay;
+import org.design.pattern.behavior.Quack;
 
 /**
  * @author abouf.fofana.ext at 19/04/2023

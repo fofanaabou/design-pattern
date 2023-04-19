@@ -1,4 +1,6 @@
-package org.design.pattern;
+package org.design.pattern.behavior;
+
+import org.design.pattern.behavior.FlyBehavior;
 
 /**
  * @author abouf.fofana.ext at 19/04/2023

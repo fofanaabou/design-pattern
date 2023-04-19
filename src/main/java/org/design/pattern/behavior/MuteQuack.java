@@ -1,4 +1,4 @@
-package org.design.pattern;
+package org.design.pattern.behavior;
 
 /**
  * @author abouf.fofana.ext at 19/04/2023
