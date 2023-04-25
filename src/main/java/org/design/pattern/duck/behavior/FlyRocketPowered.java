@@ -1,6 +1,4 @@
-package org.design.pattern.behavior;
-
-import org.design.pattern.behavior.FlyBehavior;
+package org.design.pattern.duck.behavior;
 
 /**
  * @author abouf.fofana.ext at 19/04/2023

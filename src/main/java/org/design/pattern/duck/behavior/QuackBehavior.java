@@ -1,4 +1,4 @@
-package org.design.pattern.behavior;
+package org.design.pattern.duck.behavior;
 
 /**
  * @author Abou FOFANA at 19/04/2023
